@@ -17,3 +17,4 @@
 
 [] limpe os container e imagens colocadas
 
+[] Crie um docker-compose.yml com os servicos colocados da Api expondo a porta 8888 do hot para 3000 de aplicação, rode o composer e liste os containers
